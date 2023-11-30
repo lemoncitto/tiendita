@@ -1,0 +1,142 @@
+CARRUYSEL
+
+<div class="remeras">
+    <ul class="contenedor">
+        <li>
+            <div class="borde_carta">
+                <div class="ratio ratio-1x1">
+                    <img src="https://i.pinimg.com/564x/b8/d3/1d/b8d31db6f988f02f263541275db768b7.jpg" class="carta-img-top" loading="lazy" alt="...">
+                </div>
+                <div class="cart-body-descrip">
+                    <div class="nombre-precio-1">
+                        <h3 class="nombre-1 h5">Top abierto</h3>
+                        <p class="px-2">$200</p>
+            </div>
+        </li>
+        <li>
+            <div class="borde_carta">
+                <div class="ratio ratio-1x1">
+                    <img src="https://i.pinimg.com/564x/d8/cd/95/d8cd95a60b7c03b5bede25de97ff5ff4.jpg" loading="lazy" alt="...">
+                </div>
+                <div class="cart-body-descrip">
+                    <div class="nombre-precio-1">
+                        <h3 class="nombre-1 h5">Remera con estampado de gatos</h3>
+                        <p class="px-2">$200</p>
+                 
+            </div>
+        </li>
+        <li>
+            <div class="borde_carta">
+                <div class="ratio ratio-1x1">
+                    <img src="https://i.pinimg.com/564x/4c/10/83/4c10838eabc3846e8d5ac9de70930b64.jpg" loading="lazy" alt="...">
+                </div>
+                <div class="card-body p-0 pt-2">
+                    <div class="nombre-precio-1">
+                        <h3 class="nombre-1 h5">Camisa con estampado de perros</h3>
+                        <p class="px-2">$110</p>
+                   
+            </div>
+        </li>
+        <li>
+            <div class="borde_carta">
+                <div class="ratio ratio-1x1">
+                    <img src="https://i.pinimg.com/564x/e8/e5/dd/e8e5ddae04a9181a83b36122cc2f089c.jpg" loading="lazy" alt="...">
+                </div>
+                <div class="card-body p-0 pt-2">
+                    <div class="nombre-precio-1">
+                        <h3 class="nombre-1 h5">Camisa con estampado comic</h3>
+                        <p class="px-2">$130</p>
+                   
+            </div>
+        </li>
+        <li>
+            <div class="borde_carta">
+                <div class="ratio ratio-1x1">
+                    <img src="https://i.pinimg.com/564x/fa/f8/67/faf8676477e78fe4a923c4408753ee46.jpg" class="card-img-top" loading="lazy" alt="...">
+                </div>
+                <div class="card-body p-0 pt-2">
+                    <div class="nombre-precio-1">
+                        <h3 class="nombre-1 h5">Remera Spider Cat</h3>
+                        <p class="px-2">$110</p>
+                   
+            </div>
+        </li>
+        <li>
+            <div class="borde_carta">
+                <div class="ratio ratio-1x1">
+                    <img src="https://i.pinimg.com/564x/20/d7/e1/20d7e1a50dbf92594580ce9634bf8baf.jpg" loading="lazy" alt="...">
+                </div>
+                <div class="card-body p-0 pt-2">
+                    <div class="nombre-precio-1">
+                        <h3 class="nombre-1 h5">Remera sin mangas con estampado negro</h3>
+                        <p class="px-2">$130</p>
+                   
+            </div>
+        </li>
+    </ul>
+
+    <button type="button" class="slider-nav" aria-label="Go left"></button>
+    <button type="button" class="slider-nav slider-nav-next" aria-label="Go left"></button>
+</div>
+
+IMAGENES RWEMEREAS
+
+<img src="https://i.pinimg.com/564x/b8/d3/1d/b8d31db6f988f02f263541275db768b7.jpg"  width="300" height="300">
+<img src="https://i.pinimg.com/564x/d8/cd/95/d8cd95a60b7c03b5bede25de97ff5ff4.jpg"  width="300" height="300">
+<img src=" https://i.pinimg.com/564x/4c/10/83/4c10838eabc3846e8d5ac9de70930b64.jpg"  width="300" height="300">
+<img src="https://i.pinimg.com/564x/e8/e5/dd/e8e5ddae04a9181a83b36122cc2f089c.jpg"  width="300" height="300">
+<img src=" https://i.pinimg.com/564x/fa/f8/67/faf8676477e78fe4a923c4408753ee46.jpg"  width="300" height="300">
+https://i.pinimg.com/564x/20/d7/e1/20d7e1a50dbf92594580ce9634bf8baf.jpg
+
+RESTO DEL CODE
+
+<div class="camperas">
+    <img src="https://i.pinimg.com/564x/4e/72/f8/4e72f88a5b0a4ccfbc41e9350222af6d.jpg" width="300" height="300">
+    <img src="https://i.pinimg.com/564x/ef/ff/28/efff28b77cf88b2ddf7fb67e534cc92f.jpg" width="300" height="300">
+    <img src=" https://i.pinimg.com/564x/40/4f/3c/404f3ce3d1e4a303b139e5324a6911eb.jpg" width="300" height="300">
+    <img src="https://i.pinimg.com/564x/69/e2/f1/69e2f1971fe39524b2aa9714342d586e.jpg" width="300" height="300">
+    <img src=" https://i.pinimg.com/564x/98/75/a2/9875a27cc1c10de02f7e18d598e4aacb.jpg" width="300" height="300">
+  </div>
+</div>
+
+<div class="img_anuncio">
+  <img src="https://i.pinimg.com/736x/2a/21/a7/2a21a71f0aa7aafc0a53701b6c3cc148.jpg">
+</div>
+
+</div>
+<div class="oferta">
+  <div class="anuncio">
+
+    <h1 class="coleccion">NUEVA COLECCIÓN
+    </h1>
+    <h1 id class="off">
+      20% off
+    </h1>
+    <h3 id class="valido">
+      En ropa y accesorios
+    </h3>
+    <h5 id class="entra">
+      C͟om͟pr͟e_aqu͟í
+    </h5>
+  </div>
+</div>
+
+<div class="contenedor2">
+  <div class="caja3">
+    <h4 class="seccion_p"> » Pantalones / Shorts / Bermudas</h4>
+    <style>
+      h4 {
+        font-family: Georgia;
+      }
+    </style>
+    <div class="pantalones">
+      <img src="https://i.pinimg.com/564x/b1/c6/c5/b1c6c58e44eb9214aebe2b9b32421860.jpg" width="300" height="400">
+      <img src="https://i.pinimg.com/564x/67/ef/38/67ef38ee6602bfb58b13915de9513b53.jpg" width="400" height="400">
+      <img src="https://i.pinimg.com/564x/0e/62/f0/0e62f0687286ccba2b1f0b672a495074.jpg" width="300" height="400">
+      <img src="https://i.pinimg.com/564x/28/87/51/28875105d0be641342c0f4c8a57dfda4.jpg" width="300" height="400">
+
+    </div>
+  </div>
+</div>
+
+ESTILO
